@@ -26,6 +26,7 @@
 
 html {
   scroll-behavior: smooth;
+  cursor: none;
 }
 
 body {
@@ -33,6 +34,13 @@ body {
   color: var(--foreground);
   font-family: var(--font-sans);
   -webkit-font-smoothing: antialiased;
+  cursor: none;
+}
+
+a,
+button,
+[role="button"] {
+  cursor: none !important;
 }
 
 h1,
