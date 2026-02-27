@@ -20,7 +20,7 @@ const items = [
         id: 3,
         title: "Wellness & Spa",
         subtitle: "A regeneráció ugyanolyan fontos.",
-        image: "https://images.unsplash.com/photo-1591343395582-99bf4de994c4?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80",
+        image: "https://images.unsplash.com/photo-1730367019975-4ad8d9e14ef2?auto=format&fit=crop&w=1200&q=80",
     },
     {
         id: 4,
